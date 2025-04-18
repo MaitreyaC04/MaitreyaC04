@@ -45,7 +45,7 @@ A web-based tic-tac-toe game built with JavaScript, including interactive gamepl
 🔹 [Snake Game](https://github.com/MaitreyaC04/snake-game)  
 A modern version of the classical Snake game, built using HTML, CSS, and JavaScript.
 
-🔹 [Snake Game](https://github.com/MaitreyaC04/student-result-analysis)  
+🔹 [Student Result Analysis System](https://github.com/MaitreyaC04/student-result-analysis)  
 A Python-based data analysis tool that processes and visualizes student performance.
 
 ## 📫 Let's Connect
